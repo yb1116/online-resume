@@ -1,146 +1,148 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: 杨博
+  title: 
   avatar:
-    display: true
-    path: profile.png
+    display: false
+    path: 
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: 457092466@qq.com
+  phone: 18200527911
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: 
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
 
 profile:
   display: true
-  title: Profile
+  title: 自我介绍
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
-
+    我的性格乐观开朗，积极向上。有较强的自学能力，对于不会的技术喜欢探索和虚心求教。我有较好的团队精神，善于交流。对于理论知识掌握较好，并且对于攻防实战具有浓厚兴趣，希望在实战中得到技术的提升。
+    
 experiences:
   display: true
-  title: Experiences
+  title: 实践经历
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    # - role: 信息安全专业
+    #   time: 2019.09 - 2023.07
+    #   company: 西华大学
+    #   tag:
+    #   location: Beijing
+    #   details: |
+    #     Experience in this company:
+    #     + First
+    #     + Second
+
+    #     ...
+
+    - role: 蓝方
+      time: 2022.04 - 2022.05
+      company: 西华大学企业安全服务项目实战实训 
+      tag: 
+      location: 成都
       details: |
-        Experience in this company:
-        + First
-        + Second
+        负责网络搭建，安全加固
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+    #     ...
 
 projects:
   display: true
-  title: Projects
+  title: 项目作品
   intro: |
-    This is all the projects I'm involved in.
-
+    
   items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
+    # - name: Foo
+    #   link: https://www.google.com
+    #   details: |
+    #     Project Foo's detail, you can write markdown format text.
 
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+    # - name: Bar
+    #   link:
+    #   details: |
+    #     Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
-  title: Skills
+  title: 技术能力
   details: |
-    Here is my skills:
-    + First
-    + Second
+    + 熟悉linux操作系统和winserver操作系统的使用
+    + 熟悉计算机网络的搭建,交换机和路由的配置,熟悉防火墙以及WAF策略的配置
+    + 了解mysql和sqlserver数据库的使用
+    + 对于常见的攻击方式了解:sql注入,文件上传攻击等
+    + 熟悉burpsuite的使用
+    + 对于密码学有一定的了解
 
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+  # levels:
+  #   - name: Skill A
+  #     level: 90
+  #   - name: Skill B
+  #     level: 80
+  #   - name: Skill C
+  #     level: 70
 
 education:
   display: true
-  title: Education
+  title: 教育背景
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: 西华大学
+      time: 2019 - 2023
+      major: 信息安全专业
+      degree: 本科在读
       details: |
-        Experience in this university:
-        + First
-        + Second
+        + __GPA前10%__
 
-        ...
+    # - university: Example University
+    #   time: 2011 - 2015
+    #   major: Computer Science
+    #   degree: Bachelor
+    #   details: |
+    #     Experience in this university:
+    #     + First
+    #     + Second
 
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+    #     ...
 
 certificates:
   display: true
-  title: Certificates
+  title: 获得奖项
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+  # #   之前打2021年长安杯高校组做出了一道baigei（堆溢出），最后是20多名。
+  # # 也做了很多比赛pwn题的复现
+  # # 随队获得：
+  # # 2022虎符ctf初赛46名
+  # # 2022 XCTF联赛*CTF分站赛第28名
+  # # 2022 MRCTF 初赛第20名
 
+  #   - name: 2022虎符ctf初赛46名
+  #     authority: 奇安信
+  #     time: 2022.03
+  #     link:
+  #     details: |
+
+  #   - name: 2022 XCTF联赛*CTF分站赛第28名
+  #     authority: XCTF联赛
+  #     time: 2022.03
+  #     link: 
+  #     details: |
+
+  #   - name: 2022 MRCTF 初赛第20名
+  #     authority: 微步
+  #     time: 2022.04
+  #     link: 
+  #     details: |
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,14 +158,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -172,7 +174,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -181,7 +183,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -191,7 +193,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
