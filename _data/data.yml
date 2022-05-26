@@ -57,7 +57,7 @@ experiences:
     #     ...
 
 projects:
-  display: true
+  display: false
   title: 项目作品
   intro: |
     
@@ -114,7 +114,7 @@ education:
     #     ...
 
 certificates:
-  display: true
+  display: false
   title: 获得奖项
   items:
   # #   之前打2021年长安杯高校组做出了一道baigei（堆溢出），最后是20多名。
